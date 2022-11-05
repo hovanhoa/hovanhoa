@@ -1,6 +1,6 @@
 # Hi there, I'm Ho Van Hoa 👋 
 
-[![Website](https://img.shields.io/website?label=hovanhoa.github.io&style=for-the-badge&url=https%3A%2F%2Fhovanhoa.github.io)](hovanhoa.github.io)
+[![Website](https://img.shields.io/website?label=hovanhoa.github.io&style=for-the-badge&url=https%3A%2F%2Fhovanhoa.github.io)](https://hovanhoa.github.io)
 
 ## I'm a Developer !!
 
