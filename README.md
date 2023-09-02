@@ -4,10 +4,9 @@
 
 ## I'm a Developer !!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to play game and travel
+- ⚡ Fun fact: I love to play games and travel
 
 ### Connect with me:
 
