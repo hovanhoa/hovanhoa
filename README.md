@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://hovanhoa.github.io)
-[![website](./img/globe-dark.svg)](https://hovanhoa.github.io)
+[![website](./img/globe-light.svg)](https://hovanhoa.vercel.app)
+[![website](./img/globe-dark.svg)](https://hovanhoa.vercel.app)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/hovanhoa)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/hovanhoa)
@@ -38,6 +38,6 @@
 <br />
 
 
-[website]: https://hovanhoa.github.io
+[website]: https://hovanhoa.vercel.app
 [instagram]: https://instagram.com/_hovanhoa_
 [linkedin]: https://linkedin.com/in/hovanhoa
