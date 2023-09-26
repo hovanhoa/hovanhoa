@@ -7,7 +7,7 @@
 
 <p align=center>
   <a href="https://github.com/hovanhoa">
-    <img src="https://badges.pufler.dev/visits/hovanhoa/hovanhoa?style=flat-square&color=black&logo=github">
+    <img src="https://komarev.com/ghpvc/?username=hovanhoa">
   </a>
   <a href="https://github.com/hovanhoa?tab=repositories">
     <img src="https://badges.pufler.dev/repos/hovanhoa?style=flat-square&color=black&logo=github">
