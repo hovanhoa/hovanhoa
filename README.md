@@ -14,7 +14,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Terabyte17"><img src="https://img.shields.io/github/followers/hovanhoa?style=social"></a>
+<a href="https://github.com/hovanhoa"><img src="https://img.shields.io/github/followers/hovanhoa?style=social"></a>
 </p>
 <hr>
 <p align="center">
