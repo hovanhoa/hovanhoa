@@ -1,43 +1,27 @@
-# Hi there, I'm Ho Van Hoa 👋 
+<h2 align="center">Hello there! My name is Hồ Văn Hòa. 👋🤓</h2>
+<p align="center">I'm Software Engineer with an academic background in Computer Science and a passion for problem solving and software development. I've been working on Odoo app development more than one year now.
+</p>
 
-[![Website](https://img.shields.io/website?label=hovanhoa.vercel.app&style=for-the-badge&url=https%3A%2F%2Fhovanhoa.github.io)](https://hovanhoa.vercel.app)
+<p align="center"> <a href="https://www.linkedin.com/in/hovanhoa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/_hovanhoa_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+</p>
 
-## I'm a Developer !!
-
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other developers
-- ⚡ Fun fact: I love to play games and travel
-
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://hovanhoa.vercel.app)
-[![website](./img/globe-dark.svg)](https://hovanhoa.vercel.app)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/hovanhoa)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/hovanhoa)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/_hovanhoa_)
-[![website](./img/instagram-dark.svg)](https://instagram.com/_hovanhoa_)
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]()
+<p align=center>
+  <a href="https://github.com/hovanhoa">
+    <img src="https://badges.pufler.dev/visits/hovanhoa/hovanhoa?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/hovanhoa?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/hovanhoa?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+<p align="center">
+<a href="https://github.com/Terabyte17"><img src="https://img.shields.io/github/followers/hovanhoa?style=social"></a>
+</p>
+<hr>
+<p align="center">
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 
-<br />
-<br />
 
 
-[website]: https://hovanhoa.vercel.app
-[instagram]: https://instagram.com/_hovanhoa_
-[linkedin]: https://linkedin.com/in/hovanhoa
+
