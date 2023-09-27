@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! My name is Hồ Văn Hòa. 👋🤓</h2>
-<p align="center">I'm Software Engineer with an academic background in Computer Science and a passion for problem solving and software development. I've been working on Odoo app development more than one year now.
+<p align="center">I'm Software Engineer with an academic background in Computer Science and a passion for problem solving and software development.
 </p>
 
 <p align="center"> <a href="https://www.linkedin.com/in/hovanhoa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/_hovanhoa_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
