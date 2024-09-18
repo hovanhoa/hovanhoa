@@ -27,7 +27,6 @@
 
 <br>
 
-[84.51°]: https://github.com/8451 "84.51° Github Home"
 [issues page]: https://github.com/hovanhoa/hovanhoa/issues "hovanhoa/issues"
 [linkedin]: https://www.linkedin.com/in/hovanhoa "hovanhoa LinkedIn"
 [blog]: https://hovanhoa.net/ "My Blog"
