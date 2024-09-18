@@ -1,11 +1,11 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm hovanhoa</h1>
+<h1 align="left" id="hovanhoa">Hey there! 👋 I'm Hòa.</h1>
 
 <a href="#hovanhoa-title">
   <img src="https://raw.githubusercontent.com/hovanhoa/github-stats-transparent/output/generated/overview.svg" alt="hovanhoa" align="right" />
 </a>
 
 <p align="left">
-  <h3>I do Software Engineering things</h3>
+  <h3>Software Engineer with 2+ years of experience.</h3>
   <a href="https://github.com/hovanhoa/hovanhoa">
     <img src="https://komarev.com/ghpvc/?username=hovanhoa" alt="page views" />
   </a>
