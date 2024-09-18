@@ -1,25 +1,33 @@
-<h2 align="center">Hello there! My name is Hồ Văn Hòa. 👋🤓</h2>
-<p align="center">I'm Software Engineer with an academic background in Computer Science and a passion for problem solving and software development.
-</p>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm hovanhoa</h1>
+<h3 align="left">I do Software Engineering things</h3>
 
-<p align="center"> <a href="https://www.linkedin.com/in/hovanhoa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/_hovanhoa_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
-</p>
-
-<p align=center>
-  <a href="https://github.com/hovanhoa">
-    <img src="https://komarev.com/ghpvc/?username=hovanhoa">
+<p align="left">
+  <a href="https://github.com/hovanhoa/hovanhoa">
+    <img src="https://komarev.com/ghpvc/?username=hovanhoa" alt="page views" />
+  </a>
+  <a href="https://hovanhoa.net">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fhovanhoa.net">
   </a>
   <a href="https://github.com/hovanhoa?tab=repositories">
     <img src="https://badges.pufler.dev/repos/hovanhoa?style=flat-square&color=black&logo=github">
   </a>
+  <a href="https://github.com/hovanhoa?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hovanhoa?style=flat&logo=github">
+  </a>
 </p>
 
-<hr>
-<p align="center">
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/docker%20-%23323330.svg?&style=for-the-badge&logo=docker&logoColor=%0db7ed"/>
-</p>
+<a href="#hovanhoa-title">
+  <img src="https://raw.githubusercontent.com/hovanhoa/github-stats-transparent/output/generated/overview.svg" alt="hovanhoa" align="right" />
+</a>
 
 
+- :book: &nbsp;Learn more about my article on my **[blog]**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
+<br>
 
-
+[84.51°]: https://github.com/8451 "84.51° Github Home"
+[issues page]: https://github.com/hovanhoa/hovanhoa/issues "hovanhoa/issues"
+[linkedin]: https://www.linkedin.com/in/hovanhoa "hovanhoa LinkedIn"
+[blog]: https://hovanhoa.net/ "My Blog"
