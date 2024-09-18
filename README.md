@@ -1,7 +1,11 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm hovanhoa</h1>
-<h3 align="left">I do Software Engineering things</h3>
+
+<a href="#hovanhoa-title">
+  <img src="https://raw.githubusercontent.com/hovanhoa/github-stats-transparent/output/generated/overview.svg" alt="hovanhoa" align="right" />
+</a>
 
 <p align="left">
+  <h3>I do Software Engineering things</h3>
   <a href="https://github.com/hovanhoa/hovanhoa">
     <img src="https://komarev.com/ghpvc/?username=hovanhoa" alt="page views" />
   </a>
@@ -14,12 +18,8 @@
   <a href="https://github.com/hovanhoa?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/hovanhoa?style=flat&logo=github">
   </a>
+  
 </p>
-
-<a href="#hovanhoa-title">
-  <img src="https://raw.githubusercontent.com/hovanhoa/github-stats-transparent/output/generated/overview.svg" alt="hovanhoa" align="right" />
-</a>
-
 
 - :book: &nbsp;Learn more about my article on my **[blog]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
