@@ -6,16 +6,16 @@
 
 <p align="left">
   <h3>I do Software Engineering things</h3>
-  <a href="https://github.com/hovanhoa/hovanhoa" target="_blank">
+  <a href="https://github.com/hovanhoa/hovanhoa">
     <img src="https://komarev.com/ghpvc/?username=hovanhoa" alt="page views" />
   </a>
-  <a href="https://hovanhoa.net" target="_blank">
+  <a href="https://hovanhoa.net">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fhovanhoa.net">
   </a>
-  <a href="https://github.com/hovanhoa?tab=repositories" target="_blank">
+  <a href="https://github.com/hovanhoa?tab=repositories">
     <img src="https://badges.pufler.dev/repos/hovanhoa?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/hovanhoa?tab=followers" target="_blank">
+  <a href="https://github.com/hovanhoa?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/hovanhoa?style=flat&logo=github">
   </a>
   
