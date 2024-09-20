@@ -21,6 +21,7 @@
   
 </p>
 
+- I am confident in my knowledge of software development concepts, industry best practices, and modern software technologies.
 - :book: &nbsp;Learn more about my article on my **[blog]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
