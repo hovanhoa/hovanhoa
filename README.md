@@ -18,9 +18,6 @@
   <a href="https://github.com/hovanhoa?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/hovanhoa?style=flat&logo=github">
   </a>
-  <a href="https://wakatime.com/@0a407644-11a2-4a9d-b59b-a5e85e3bae3c">
-    <img src="https://wakatime.com/badge/user/0a407644-11a2-4a9d-b59b-a5e85e3bae3c.svg" alt="Total time coded" />
-  </a>
   
 </p>
 
