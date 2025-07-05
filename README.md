@@ -1,5 +1,4 @@
-$ whoami  
-hovanhoa
-
-$ echo "Everyone starts somewhere."  
+```
+Everyone starts somewhere.
 https://hovanhoa.net
+```
