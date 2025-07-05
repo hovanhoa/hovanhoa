@@ -1,3 +1,2 @@
-### ✨ Everyone starts somewhere
-
-🔗 [hovanhoa.net](https://hovanhoa.net)
+> Everyone starts somewhere. 
+> https://hovanhoa.net
