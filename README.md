@@ -1,4 +1,5 @@
+$ whoami  
 hovanhoa
----------
-Everyone starts somewhere.
+
+$ echo "Everyone starts somewhere."  
 https://hovanhoa.net
